@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+psycopg2-binary
+aiosqlite
+databases[postgresql,sqlite]
+python-dotenv
+ollama
+llama-cpp-python
